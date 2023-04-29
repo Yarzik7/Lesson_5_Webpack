@@ -31,5 +31,6 @@
 
 // console.log(sum(2, 3));
 
+import "./styles/style.css";
 
-import './styles/style.css'
+console.log("Hi!");
